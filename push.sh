@@ -39,6 +39,10 @@ do
 # echo "释放新文件"
 # sleep 5
 
+echo $add
+echo $branchs
+sleep 5
+
 #git branch $branchs && git checkout $branchs && git add $add && git commit -m $branchs && git push -u origin $branchs
 git add $add && git commit -m $branchs && git push -u origin main
 echo "PUSH完成"

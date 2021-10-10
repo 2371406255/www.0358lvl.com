@@ -39,14 +39,15 @@ do
 # echo "释放新文件"
 # sleep 5
 
-echo $add
-echo $branchs
-sleep 5
+echo "$add 正在处理这个添加"
+echo "$branchs 正在处理这个分支"
+echo "$tar 正在处理这个压缩包"
+sleep 3
 
 #git branch $branchs && git checkout $branchs && git add $add && git commit -m $branchs && git push -u origin $branchs
 git add $add && git commit -m $branchs && git push -u origin main
-echo "PUSH完成"
-sleep 5
+# echo "PUSH完成"
+# sleep 5
 
 #rm -rf !\(.git|add.txt|branch.sh|branchs.txt|do.sh|init.sh|merge.sh|README.md|tar.txt\)
 #rm -rf !(.git|add.txt|branch.sh|branchs.txt|do.sh|init.sh|merge.sh|README.md|tar.txt)

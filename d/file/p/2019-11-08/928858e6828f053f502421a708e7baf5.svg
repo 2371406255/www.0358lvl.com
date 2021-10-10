@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="38px" height="34px" viewBox="0 0 38 34" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49 (51002) - http://www.bohemiancoding.com/sketch -->
+    <title>举报</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="0611_收益大盘优化方案" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-285.000000, -2386.000000)" id="举报">
+            <g transform="translate(242.000000, 2364.000000)">
+                <g transform="translate(42.000000, 20.000000)">
+                    <path d="M15,3 C11.1340068,3 8,6.13400675 8,10 L8,25.5857864 C8,26.1162194 7.78928632,26.6249272 7.41421356,27 L4.58578644,29.8284271 C4.21071368,30.2034999 4,30.7122077 4,31.2426407 L4,35 L36,35 L36,31.2426407 C36,30.7122077 35.7892863,30.2034999 35.4142136,29.8284271 L32.5857864,27 C32.2107137,26.6249272 32,26.1162194 32,25.5857864 L32,10 C32,6.13400675 28.8659932,3 25,3 L15,3 Z" id="Rectangle-7" stroke="#889FCE" stroke-width="2"></path>
+                    <path d="M29.6573343,4 L17.1074219,4 C12.9525146,5.80383301 13.0141602,9.64489746 13.0141602,13.0141602 C13.0626628,13.0141602 13.0579427,20.3427734 13,35 L37,35 L37,33.1213203 L37,35 C37,35.5522847 36.5522847,36 36,36 L4,36 C3.44771525,36 3,35.5522847 3,35 L3,31.2426407 C3,30.4469912 3.31607052,29.6839295 3.87867966,29.1213203 L6.70710678,26.2928932 C6.89464316,26.1053568 7,25.8510029 7,25.5857864 L7,11 C7,6.02943725 11.0294373,2 16,2 L24,2 C26.1432966,2 28.1116082,2.74920013 29.6573343,4 Z" id="Combined-Shape" fill="#85A0D6" opacity="0.269999981"></path>
+                    <path d="M12,28 L28,28" id="Path-5" stroke="#889FCE" stroke-width="2" stroke-linecap="round"></path>
+                    <path d="M27,10 C24.2385763,10 22,12.2385763 22,15 C22,17.7614237 24.2385763,20 27,20" id="Oval-7" stroke="#889FCE" stroke-width="2" stroke-linecap="round"></path>
+                    <path d="M5.01191406,11.505957 L2,10" id="Path-6" stroke="#889FCE" stroke-width="2" stroke-linecap="round"></path>
+                    <path d="M38,11.4842773 L35.0314453,10" id="Path-6" stroke="#889FCE" stroke-width="2" stroke-linecap="round" transform="translate(36.515723, 10.742139) scale(-1, 1) translate(-36.515723, -10.742139) "></path>
+                    <path d="M4.99711914,19 L2,17.5014404" id="Path-6" stroke="#889FCE" stroke-width="2" stroke-linecap="round" transform="translate(3.498560, 18.250720) scale(1, -1) translate(-3.498560, -18.250720) "></path>
+                    <path d="M38,19 L35.0341797,17.5170898" id="Path-6" stroke="#889FCE" stroke-width="2" stroke-linecap="round" transform="translate(36.517090, 18.258545) scale(-1, -1) translate(-36.517090, -18.258545) "></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,26 @@
+
+
+
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>异常处理页面</title>
+
+<link rel="stylesheet" href="/seeyon/common/all-min.css">
+<link rel="stylesheet" href="/seeyon/skin/default/skin.css">
+<script type="text/javascript">
+if(parent && parent.errorHandle)
+    parent.errorHandle("null");
+</script>
+</head>
+<body class="page_color">
+    
+    <font color='red'>出现异常：(<font id="THROWABLE_ID">7999789054</font>):<font id="THROWABLE_MESSAGE">null</font></font>&nbsp;
+    
+    
+
+</body>
+</html>

@@ -43,7 +43,7 @@ echo "正在处理这个添加：$add"
 echo "正在处理这个分支: $branchs"
 echo "正在处理这个压缩包: $tar"
 echo "准备执行以下动作: git add $add && git commit -m $branchs && git push -u origin main"
-sleep 3
+sleep 1
 
 #git branch $branchs && git checkout $branchs && git add $add && git commit -m $branchs && git push -u origin $branchs
 git add $add && git commit -m $branchs && git push -u origin main

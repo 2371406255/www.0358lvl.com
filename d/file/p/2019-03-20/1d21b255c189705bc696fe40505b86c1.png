@@ -1,0 +1,731 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>北国网财经 </title>
+<meta name="keywords" content="北国网社区论坛,报料,随手拍,民生生活,老建筑,楹联,对联,收藏,集邮,邮票,艺术,书画,摄影,健身,冬泳,游泳,徒步登山,广场舞,读书,房产家居,装修团购,汽车,亲子,旅游,美食,健康,彩票,大乐透,双色球,数码,星座,游戏 />
+<meta name="description" content="北国网论坛开设于2001年8月18日，现有注册会员一百四十余万，总帖数一百九十余万。北国网论坛拥有北国视线、民生热线、沈阳生活、读步天下、东晒西图、报料台、都来拍、装修团购、艺术之窗、收藏天地、楹联艺术、全民健身、美食生活、天天健康、旅游休闲、彩票预测、我的文字、娱乐八卦、房产家居、相亲交友、北国车汇、游戏攻略、星座测试和信息服务等特色栏目，是辽宁广大网民交流互动重要平台之一。" />
+<meta name="generator" content="Discuz! X3.1" />
+<meta name="author" content="Discuz! Team and Comsenz UI Team" />
+<meta name="copyright" content="2001-2011 Comsenz Inc." />
+<meta name="MSSmartTagsPreventParsing" content="True" />
+<meta http-equiv="MSThemeCompatible" content="Yes" />
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" /> 
+<meta http-equiv="MSThemeCompatible" content="Yes" />
+<base href="http://economy.lnd.com.cn/" />    
+<!-- jQuery调用和声明 -->
+    <script src="http://economy.lnd.com.cn/statics/js/jquery.min.js" type="text/javascript"></script>
+     <script type="text/javascript">
+
+ var jQ = jQuery.noConflict();
+    jQ(document).ready(function(){  
+        jQ("select").sSelect();  
+    })  
+     </script>
+<base href="http://economy.lnd.com.cn/" /><link rel="stylesheet" type="text/css" href="http://economy.lnd.com.cn/statics/css/style_7_common.css?jM0" /><link rel="stylesheet" type="text/css" href="http://economy.lnd.com.cn/statics/css/style_7_portal_list.css?jM0" /><script type="text/javascript">var STYLEID = '7', STATICURL = 'static/', IMGDIR = 'template/comiis_19lou/img', VERHASH = 'jM0', charset = 'utf-8', discuz_uid = '0', cookiepre = 'FJUr_2132_', cookiedomain = '', cookiepath = '/', showusercard = '1', attackevasive = '0', disallowfloat = 'newthread|reply|nav', creditnotice = '1|经验|点,2|威望|点,4|魅力|,5|点券|￥,6|金币|金', defaultstyle = '', REPORTURL = 'aHR0cDovL2Vjb25vbXkubG5kLmNvbS5jbi8=', SITEURL = 'http://economy.lnd.com.cn/', JSPATH = 'data/cache/';</script>
+<script src="http://economy.lnd.com.cn/statics/js/common.js?jM0" type="text/javascript"></script><meta name="application-name" content="北国网论坛" />
+<meta name="msapplication-tooltip" content="北国网论坛" />
+<meta name="msapplication-task" content="name=论坛;action-uri=http://economy.lnd.com.cn/portal.php;icon-uri=http://economy.lnd.com.cn/template/comiis_19lou/img/portal.ico" /><meta name="msapplication-task" content="name=论坛;action-uri=http://economy.lnd.com.cn/forum.php;icon-uri=http://economy.lnd.com.cn/template/comiis_19lou/img/bbs.ico" />
+<meta name="msapplication-task" content="name=家园;action-uri=http://economy.lnd.com.cn/home.php;icon-uri=http://economy.lnd.com.cn/template/comiis_19lou/img/home.ico" /><link href="http://news.lnd.com.cn/css/base.css" rel="stylesheet" type="text/css">
+
+<script src="http://economy.lnd.com.cn/statics/js/ne.js" type="text/javascript"></script>
+
+<link href="http://economy.lnd.com.cn/statics/js/huandeng.css" rel="stylesheet" type="text/css">
+
+<link rel="Shortcut Icon" href="http://www.lnd.com.cn/inc/images/favico.ico" type="image/x-icon">
+<script src="http://economy.lnd.com.cn/statics/js/portal.js?jM0" type="text/javascript"></script>
+<style type="text/css">
+
+<!--
+
+/*头 begin*/
+
+body,td,th {font-size: 12px;}
+
+.top1 {padding:8px 0;width:1000px;margin:0 auto;height:18px;}
+
+.top1 a {background:url(http://economy.lnd.com.cn/statics/images/20150331_2.jpg) no-repeat right center; height:10px; line-height:14px; padding:13px;}
+
+
+
+a.blue:link, a.blue:visited,a.blue:active
+
+{color:#666;}
+
+a.blue:hover
+
+{color:#ba2636;}
+
+
+
+
+
+a.red:link, a.red:visited,a.red:active
+
+{color:#999;}
+
+a.blue:hover
+
+{color:#ba2636;}
+
+
+
+a.grey:link, a.grey:visited,a.grey:active
+
+{color:#333;}
+
+a.grey:hover
+
+{color:#ba2636;}
+
+
+
+a.white:link, a.white:visited,a.white:active
+
+{color:#000000;}
+
+a.white:hover
+
+{color:#ba2636;}
+
+
+
+
+
+/*搜索*/
+
+.search{width:248px; margin-top:2px; margin-top:15px;}
+
+.search1{height:24px;  margin-bottom:5px;}
+
+
+
+.nav1{width:901px; height:34px; background-color:#25a9f2;font-size:18px;  padding-top:11px;}
+
+.nav1 a{ padding:22px;}
+
+.xian_nav{font-size:12px; color:#aedcfa;}
+
+.waikuang{width:100%; height:auto; border-top:1px solid #f0f0f0; padding-top:16px; overflow:hidden;}
+
+.neikuang{width:1000px; height:65px; margin:0 auto; margin-top:15px; }
+
+.logo{width:206px; height:43px;}
+
+.nav_kuang{width:1000px; margin:0 auto; height:45px; margin-bottom:33px;}
+
+.shouye_zi{width:99px; height:35px; background-color:#1f89c4;  font-size:18px; text-align:center; padding-top:10px;}
+
+/*头 end*/
+.yli1112{ }
+
+.yli1112 ul{margin:0px; padding:0px;} 
+
+.yli1112 li{ list-style:none; font-size:16px; color:#666666; height:35px; line-height:35px; overflow:hidden; background:url(http://news.lnd.com.cn/images/20150401_24.jpg) 0px 15px no-repeat ;padding-left:17px;}
+
+.yli112{ list-style:none; font-size:14px; color:#333; width:330px; height:30px; line-height:30px; overflow:hidden; background:url(http://news.lnd.com.cn/images/20150401_20.jpg) 8px 6px no-repeat ;padding-left:41px;}
+
+.yli113 ul{margin:0px; padding:0px;}
+
+.yli113 li{ list-style:none; font-size:14px; color:#333; width:330px; height:30px; line-height:30px; overflow:hidden; background:url(http://news.lnd.com.cn/images/20150401_24.jpg) 8px 13px no-repeat ;padding-left:32px;}
+
+
+.wai1{width:1000px; height:350px; margin:0 auto; margin-bottom:34px;}
+
+.huandeng{width:590px; height:350px; background-color:#CCCCCC; margin-right:30px;}
+
+
+
+.zhaiyao{width:380px; height:350px;}
+
+.zhaiyao_wai{width:380px; padding-top:10px; height:165px; border-bottom:1px dotted  #8393ae;}
+
+.b_biaoti{width:380px; height:32px; line-height:32px; margin-bottom:10px; font-size:23px; color:#000000; }
+
+.b_zhaiyao{width:380px; height:70px; font-size:14px; line-height:25px; color:#666; margin-bottom:20px;}
+
+.more_wai{width:375px; height:19px; padding-left:5px;}
+
+.more_tu{width:11px; height:12px; margin-top:3px; background-color:#25a9f2; margin-right:10px;}
+
+.more{width:40px;  height:12px;  font-size:12px; color:#666666;}
+
+.b_zhaiyao1{width:380px; padding-top:20px; height:155px;}
+
+
+
+
+
+
+
+.erping{width:1000px; height: auto; margin:0 auto; margin-bottom:20px;}
+
+.guojiguonei{width:620px; height: auto; padding-top:7px;}
+
+.guojiguonei_wai{width:510px; height:390px;}
+
+.guojiguonei_kuang{width:510px; height:32px; margin-bottom:33px;}
+
+.tiao{width:4px; height:25px; background-color:#25a9f2; margin-right:14px; margin-top:8px;}
+
+.wenzi{ height:26px; font-size:26px;}
+
+.wenzi1{width:71px; height:32px; font-size:26px;}
+
+.dian1{width:7px; height:6px; margin-top:19px; margin-right:8px;}
+
+.guoji_b_biao{width:520px; height:25px; font-size:20px; margin-bottom:20px;}
+
+
+
+.end1{ height:170px; border-top:1px solid #dfdfdf; }
+
+.end11{width:980px; margin:0 auto; padding:16px 10px; height:120px; font-size:12px;}
+
+.end111{width:410px; line-height:25px;}
+
+.end112{width:120px; text-align:center; margin-right:55px;}
+
+.end113{ width:300px; line-height:25px;}
+
+.end2{ height:32px; color:#666666; text-align:center; padding-top:3px;}
+
+.end211{width:680px; font-size:14px; color:#666666; margin-right:215px;}
+
+.end211 a{ padding:0 6px;  background:url(http://news.lnd.com.cn/images/20150331_2.jpg) no-repeat right center; padding:13px;}
+
+.end213{ width:111px; }
+
+.end212 a{}
+
+.tl img{ width:27px; height:30px;}
+
+
+
+.wai_quan{width:380px; height:36px; border-bottom:1px solid #25a9f2; }
+
+.shipin_wanzi{width:100px; height:30px; font-size:22px;}
+
+.gengduo{width:27px; height:15px; margin-top:16px; color:#666666;}
+
+.gengduo_biao{width:12px; height:12px; margin-top:15px;}
+
+.shipin_list{width:380px; height: auto; margin-bottom:26px;}
+
+.tupian{width:380px; height:236px; margin-bottom:36px;}
+
+.tupian_wai{width:380px; height:236px;}
+
+.touming{width:380px; height:42px; background:url(http://news.lnd.com.cn/images/2015331_01.png) no-repeat scroll 0 0 rgba(0, 0, 0, 0); position:absolute;margin-top:-42px; }
+
+.touming_biao{width:290px; padding-left:60px; padding-top:9px; height:27px; font-size:14px; color:#FFFFFF;}
+
+.zhuanti_wai{width:380px; height:140px; margin-bottom:26px;}
+
+.zhuanti_tu{width:219px; height:140px; margin-right:25px;}
+
+.zhuanti_biaozhai{width:135px; height:140px;}
+
+.zhuanti_dabiao{width:135px; height:80px; font-size:16px; color:#333333; line-height:28px; margin-bottom:18px;}
+
+.zhuanti_szhaiyao{width:135px; height:35px; font-size:12px; color:#999999; line-height:20px;}
+
+.zhuanti_list{width:380px; height: auto; margin-bottom:38px;}
+
+.guanggao{width:380px; height:123px; margin-bottom:32px;}
+
+.pinglun_biaoti{width:370px; height:25px; font-size:18px; margin-bottom:17px; padding-left:10px;}
+
+.pinglun_list{width:380px; height: auto; margin-bottom:38px;}
+
+
+
+
+
+.xg_wai{width:380px; height: 144px;  margin-bottom:15px;}
+
+.xg_1{width:178px; height:144px; margin-right:23px;}
+
+.xg_pic{width:178px; height:111px; margin-bottom:13px;}
+
+.xg_title{width:178px; height:17px; font-size:14px; text-align:center; line-height:16px;}
+
+.xg_wai1{width:178px; height:144px; }
+
+.pictext{ width:380px; height:280px; }
+.pictext img{ width:380px; height:220px;}
+.pictext p{margin-top: 20px; text-align: center}
+
+-->
+
+</style>
+
+
+<body style="background: none">
+
+<!-- s_nav  begin  -->
+
+<p class="top1"><span class="cms_block_span">
+
+ <a target="_blank" href="http://www.lnd.com.cn/">首页</a><a target="_blank" href="http://news.lnd.com.cn/">新闻</a><a target="_blank" href="http://liaoning.lnd.com.cn/">辽宁新闻</a><a target="_blank" href="http://ent.lnd.com.cn/">娱乐</a><a href="http://video.lnd.com.cn/" target="_blank">视频</a><a target="_blank" href="http://fashion.lnd.com.cn/">时尚</a><a target="_blank" href="http://read.lnd.com.cn/">读书</a><a target="_blank" href="http://health.lnd.com.cn/">健康</a><a target="_blank" href="http://lnny.lnd.com.cn/">农业</a><a target="_blank" href="http://home.lnd.com.cn/">家居家电</a><a target="_blank" href="http://play.lnd.com.cn/">乐活</a><a target="_blank" href="http://epaper.lnd.com.cn/">E报</a><a target="_blank" href="http://bbs.lnd.com.cn/" style="background:none;">论坛</a> 
+
+</span></p>
+
+<!-- s_nav  end  -->
+
+<!-- logo&sousuo  begin  -->
+
+
+
+  <div style="width:1000px; margin:10px auto; height:auto; overflow:hidden;">
+
+    <div id="wflash1">      
+
+    </div>     
+
+</div>
+
+
+
+<div class="neikuang">
+
+<div class="logo float_left"><span class="cms_block_span">
+
+<a target="_blank" href="http://economy.lnd.com.cn/"><img src="http://economy.lnd.com.cn/statics/images/cjlogo.jpg"/></a>
+</span></div>
+
+    <!-- 搜索 begin -->
+
+    <div class="float_right search"><span class="cms_block_span">
+
+<div class="search1">
+       <form  target="_blank"  name="form0" action="http://search.lnd.com.cn:9090/m_fullsearch/full_search.jsp"  method="post"     accept-charset="utf-8" onsubmit="document.charset='utf-8'">
+         
+     <div class="float_left">
+
+            <span class="float_left" style="background:url(http://www.lnd.com.cn/inc/images/20150401_06.jpg) no-repeat; width:209px; height:27px;">
+
+           <input  id="searchText"  style="margin-LEFT: 3px; background-color:transparent; border:0px; margin-TOP: 3px; FONT-SIZE: 14px; BACKGROUND: #fff no-repeat; WIDTH: 198px; HEIGHT: 18px"  name="keywords" > 
+           </span> 
+
+          <input type="hidden" name="news_type_id" value="1">
+         <img  class="float_left" src="http://www.lnd.com.cn/inc/images/20150401_07.jpg"   onClick="CheckPass();"  width="38"  height="27"  >
+
+      </div>        
+</form>
+
+<script language="JavaScript"  type="text/javascript"> 
+
+                function CheckPass() 
+
+               {  
+           form0.submit();
+
+                 } 
+
+                </script>
+ </div>
+
+
+
+</span></div>
+
+    <!-- 搜索 end -->
+
+</div>
+
+<!-- logo&sousuo  end  -->
+
+<!-- d_nav  begin  -->
+
+<div class="nav_kuang"><span class="cms_block_span">
+
+<div class="float_left yahei shouye_zi"><a target="_blank"  href="http://economy.lnd.com.cn/" style="color:#FFFFFF;">首页</a> </div>
+
+  <div class="float_left nav1 yahei"><a target="_blank"  href="http://economy.lnd.com.cn/economy/cjyw/" style="color:#FFFFFF;">财经要闻</a><span class="xian_nav">|</span><a target="_blank" href="http://economy.lnd.com.cn/economy/syzx/"style="color:#FFFFFF;">商业资讯</a><span class="xian_nav">|</span><a target="_blank" href="http://economy.lnd.com.cn/economy/gphq/"style="color:#FFFFFF;">股票行情</a><span class="xian_nav">|</span><a target="_blank" href="http://economy.lnd.com.cn/economy/yhlc/"style="color:#FFFFFF;">银行理财</a><span class="xian_nav">|</span><a target="_blank" href="http://economy.lnd.com.cn/economy/bxxx/"style="color:#FFFFFF;">保险信息</a></div>
+
+</span></div>
+<!--[name]北国网财经首页[/name]--> 
+<style>
+.blue{background: none;
+border:none;}
+</style>
+<div class="wai1">
+
+    <!--幻灯begin-->
+<div class="float_left huandeng"><span class="cms_block_span">
+
+<script src="http://news.lnd.com.cn/cms_template/100/000/041/js/ne.js" type="text/javascript"></script>
+
+<link href="http://news.lnd.com.cn/cms_template/100/000/041/css/huandeng.css" rel="stylesheet" type="text/css" />
+
+<div class="ns-gallery ns9-none">
+<span id="nsNavRecCity"></span>
+<ul class="ns-gallery-con UI_GALLERY_CON">
+   <li><a href="http://economy.lnd.com.cn/news/show/14/39249.html" target="_blank" ><div class="ns-gallery-mask"></div><img src="http://economy.lnd.com.cn/uploadfile/2019/0311/20190311104130656.png" border=0 width="590" height="350" title="龙湖一月签约额破亿 吴亚军多维发展思路初见成效" ></a></li>  
+   <li><a href="http://economy.lnd.com.cn/news/show/14/39244.html" target="_blank" ><div class="ns-gallery-mask"></div><img src="http://economy.lnd.com.cn/uploadfile/2019/0311/20190311102828589.jpg" border=0 width="590" height="350" title="面对教育信息化，掌阅：承担企业社会责任 助力课外阅读" ></a></li>  
+   <li><a href="http://economy.lnd.com.cn/news/show/14/39232.html" target="_blank" ><div class="ns-gallery-mask"></div><img src="http://economy.lnd.com.cn/uploadfile/2019/0311/20190311102141147.png" border=0 width="590" height="350" title="蔚来力压特斯拉！ES8入围2月豪华城市SUV销量排行第二" ></a></li>  
+</ul>            
+<ul class="ns-gallery-sub UI_GALLERY_SUB"></ul>            
+<ul class="ns-gallery-nav UI_GALLERY_NAV"></ul>            
+<div class="ns-creole-task"></div>            
+<div class="ns-gallery-next UI_GALLERY_NEXT"><i class="ic_prev_btn"></i></div>            
+<div class="ns-gallery-prev UI_GALLERY_PREV"><i class="ic_next_btn"></i></div>        
+</div> 
+<script src="http://news.lnd.com.cn/cms_template/100/000/041/js/pc_news.3PDAPPVo4F3Z.43.js" type="text/javascript"></script>      
+
+</span></div>
+
+    <!--幻灯end-->
+
+  <div class="float_left zhaiyao"><span class="cms_block_span">
+
+
+<div class="zhaiyao_wai"> 
+<div class="yahei hidden b_biaoti">
+<a class="white" href="http://economy.lnd.com.cn/news/show/11/14010.html" target="_blank">平安产险组织突发环境事件应急演练大会</a>
+</div>            
+<div class="hidden b_zhaiyao">
+<a class="blue" href="http://economy.lnd.com.cn/news/show/11/14010.html" target="_blank"> 
+11月30日，在深圳市人居环境委员会、深圳银保监局筹备组、平安产险总公司、宝安区环水局指导下，由深圳市保险同业公会主办、平安产险深圳分公司承办的宝安江边工业区企业突发环境事件应急演练大会落幕。
+</a>  
+</div>             
+<div class="more_wai">  
+<div class="float_left more_tu">  </div>  
+<div class="float_left yahei more">
+   <a class="blue" href="http://economy.lnd.com.cn/news/show/11/14010.html" target="_blank">MORE</a>
+</div>            
+</div>        
+</div>
+
+  
+<div class="b_zhaiyao1"> 
+<div class="yahei hidden b_biaoti">
+<a class="white" href="http://economy.lnd.com.cn/news/show/11/13815.html" target="_blank">乡镇卫生院架起“千里眼” 互联网+让名医与患者面对面</a>         
+</div>            
+<div class="hidden b_zhaiyao">
+<a class="blue" href="http://economy.lnd.com.cn/news/show/11/13815.html" target="_blank">
+日前，由浙江省玉环市卫生计生局牵头组织的“互联网＋医疗”远程义诊活动在玉环市大麦屿中心卫生院、清港镇卫生院两地同时举行，10余名患者在卫生院通过互联网平台，预约了上海华山医院、浙江省人民医院、温州市中医院的专家进行远程会诊。
+</a>  
+</div>             
+<div class="more_wai">
+  <div class="float_left more_tu"> </div>                
+  <div class="float_left yahei more"><a class="blue" href="http://economy.lnd.com.cn/news/show/11/13815.html" target="_blank">MORE</a>               </div>            
+</div>       
+</div>
+
+
+</span></div>
+
+</div>
+
+        <div class="hidden erping">
+          <div class="float_left guojiguonei">
+  
+  <!--财经要闻begin-->
+            <div class="guojiguonei_wai">
+              <div class="guojiguonei_kuang">
+                <div class="float_left tiao"> </div>
+                <div class="float_left yahei wenzi"><a target="_blank" href="http://economy.lnd.com.cn/economy/cjyw/">财经要闻</a> </div>
+              </div>
+              <div class="yli1112"><span class="cms_block_span">
+            
+<div class="hidden yahei guoji_b_biao">
+<a class="grey" href="http://economy.lnd.com.cn/news/show/11/37840.html" target="_blank">亿点连接入选《2018大数据蓄势提供商TOP100》</a>
+</div>
+
+<ul>  
+	
+	<li><a class="blue" href="http://economy.lnd.com.cn/news/show/11/37831.html" target="_blank"  title="顺利办加速平台产品迭代创新 链接企服生态">顺利办加速平台产品迭代创新 链接企服生态</a></li>
+	
+	<li><a class="blue" href="http://economy.lnd.com.cn/news/show/11/37830.html" target="_blank"  title="把握企服行业脉搏 2019顺利办全国合伙人新年统战会吹响决胜号角">把握企服行业脉搏 2019顺利办全国合伙人新年统战会吹响决胜号角</a></li>
+	
+	<li><a class="blue" href="http://economy.lnd.com.cn/news/show/11/37819.html" target="_blank"  title="彩生活业主点赞社区文化精彩纷呈">彩生活业主点赞社区文化精彩纷呈</a></li>
+	
+	<li><a class="blue" href="http://economy.lnd.com.cn/news/show/11/37814.html" target="_blank"  title="宿迁市与京东数科战略合作 打造国内首个一体化建设运营的智能新城">宿迁市与京东数科战略合作 打造国内首个一体化建设运营的智能新城</a></li>
+	
+	<li><a class="blue" href="http://economy.lnd.com.cn/news/show/11/37813.html" target="_blank"  title="德胜酒业成为浙江卫视《中国好声音》宜州赛区唯一指定白酒品牌">德胜酒业成为浙江卫视《中国好声音》宜州赛区唯一指定白酒品牌</a></li>
+	
+</ul>
+
+</span></div>  
+            </div>
+    <!--财经要闻end-->
+  
+  <!--商业资讯begin-->
+            <div class="guojiguonei_wai">
+              <div class="guojiguonei_kuang">
+                <div class="float_left tiao"> </div>
+                <div class="float_left yahei wenzi"><a target="_blank" href="http://economy.lnd.com.cn/economy/syzx/">商业资讯</a>  </div>
+              </div>  
+              <div class="yli1112"><span class="cms_block_span">
+         
+     
+<div class="hidden yahei guoji_b_biao">
+<a class="grey" href="http://economy.lnd.com.cn/news/show/12/39694.html" target="_blank">腾讯企业微信与壳牌润滑油战略签约</a>
+</div>
+
+<ul>  
+	
+	<li><a class="blue" href="http://economy.lnd.com.cn/news/show/12/39673.html" target="_blank"  title="哈啰助力车：大器晚成 共享助力车市场潜力有待深挖">哈啰助力车：大器晚成  共享助力车市场潜力有待深挖</a></li>
+	
+	<li><a class="blue" href="http://economy.lnd.com.cn/news/show/12/39671.html" target="_blank"  title="再次聚焦脱贫攻坚 新金融纾贫解困“济世良方”">再次聚焦脱贫攻坚 新金融纾贫解困“济世良方”</a></li>
+	
+	<li><a class="blue" href="http://economy.lnd.com.cn/news/show/12/39623.html" target="_blank"  title="重构20年经典升级，《重构（第2版）》中文版震撼上市">重构20年经典升级，《重构（第2版）》中文版震撼上市</a></li>
+	
+	<li><a class="blue" href="http://economy.lnd.com.cn/news/show/12/39609.html" target="_blank"  title="人才聚力谋发展，司机宝入选“3551光谷人才计划”">人才聚力谋发展，司机宝入选“3551光谷人才计划”</a></li>
+	
+	<li><a class="blue" href="http://economy.lnd.com.cn/news/show/12/39600.html" target="_blank"  title="阿拉丁阳仁强：社交和工作创新变革，引领人类幸福新方向">阿拉丁阳仁强：社交和工作创新变革，引领人类幸福新方向</a></li>
+	
+</ul>
+
+</span></div> 
+            </div>
+  <!--商业资讯end-->
+  
+   <!--股票行情begin-->
+            <div style="width:510px; height:417px;">
+              <div class="guojiguonei_kuang">
+                <div class="float_left tiao"> </div>
+                <div class="float_left yahei wenzi"><a target="_blank" href="http://economy.lnd.com.cn/economy/gphq/">股票行情</a></div>               
+              </div>
+              <div class="yli1112"><span class="cms_block_span">
+<div class="hidden yahei guoji_b_biao">
+<a class="grey" href="http://economy.lnd.com.cn/news/show/13/39693.html" target="_blank">为了测试，奇点汽车太拼了</a>
+</div>
+
+<ul>  
+	
+	<li><a class="blue" href="http://economy.lnd.com.cn/news/show/13/39692.html" target="_blank"  title="从自媒体到综合型育儿公司，年糕妈妈是如何做到的？">从自媒体到综合型育儿公司，年糕妈妈是如何做到的？</a></li>
+	
+	<li><a class="blue" href="http://economy.lnd.com.cn/news/show/13/39691.html" target="_blank"  title="铜罐驿实验学校：科技带来普惠 钉钉让农村教育也跟上时代步伐">铜罐驿实验学校：科技带来普惠 钉钉让农村教育也跟上时代步伐</a></li>
+	
+	<li><a class="blue" href="http://economy.lnd.com.cn/news/show/13/39690.html" target="_blank"  title="年糕妈妈：做早教，制胜点都是常识点">年糕妈妈：做早教，制胜点都是常识点</a></li>
+	
+	<li><a class="blue" href="http://economy.lnd.com.cn/news/show/13/39689.html" target="_blank"  title="年糕妈妈创始人全国巡讲成都站：教妈妈们做孩子的专属营养师">年糕妈妈创始人全国巡讲成都站：教妈妈们做孩子的专属营养师</a></li>
+	
+	<li><a class="blue" href="http://economy.lnd.com.cn/news/show/13/39688.html" target="_blank"  title="开年Hi购季，阿里云通信无门槛折扣畅快购！">开年Hi购季，阿里云通信无门槛折扣畅快购！</a></li>
+	
+</ul>
+
+</span></div>
+           </div>       
+<!--股票行情end-->
+  
+          </div>
+
+
+ <!--右侧 begin-->
+
+          <div style="width:380px; height: auto" class="float_left">
+            <div style="margin-bottom:30px;" class="wai_quan">
+              <div class="float_left yahei shipin_wanzi">保险信息</div>
+              <div style="width:50px; height:30px;" class="float_right">
+                <div class="float_left gengduo"><a target="_blank" href="http://economy.lnd.com.cn/economy/bxxx/" style="color:#666666;">更多</a></div>
+                <div class="float_left gengduo_biao"><img src="http://news.lnd.com.cn/images/20150401_12.jpg"></div>
+              </div>
+            </div>
+             <div class="pictext"><span class="cms_block_span">
+
+
+<a href=http://economy.lnd.com.cn/portal.php?mod=view&aid=27411&mobile=no><img title="鸿坤?葡萄酒小镇扛鼎力作鸿坤悦山湖"  src=http://www.ieordos.com/d/file/news/eeds/2018-07-17/fdcba968e6601542aa65a6f123ee88c4.jpg border=0 /></a>
+
+<p><a href=http://economy.lnd.com.cn/system/2018/06/27/000003136.shtml>鸿坤?葡萄酒小镇扛鼎力作鸿坤悦山湖</a></p>
+
+</span></div>
+            <div class="yli113" style=" margin-bottom:40px;"><span class="cms_block_span">
+
+
+<ul>  
+	<li><a class="blue" href="http://economy.lnd.com.cn/news/show/15/15020.html" target="_blank"  title="发现一杯好茶背后的故事，《中国国家地理》为您全景展现">发现一杯好茶背后的故事，《中国国家地理》为您全景展现</a></li>
+</ul>
+
+</span></div>
+
+
+            <div style="margin-bottom:32px;" class="wai_quan">
+              <div class="float_left yahei shipin_wanzi">银行理财</div>
+              <div style="width:50px; height:30px; " class="float_right">
+                <div class="float_left gengduo"><a target="_blank" href="http://economy.lnd.com.cn/economy/yhlc/" style="color:#666666;">更多</a></div>
+                <div class="float_left gengduo_biao"><img src="http://jk.js.cn/d/file/news/guonei/2018-07-18/a1b099ec1bfe15b337af81841771bb93.jpg"></div>
+              </div>
+            </div>           
+ <div class="pictext"><span class="cms_block_span">
+
+
+<a href="http://economy.lnd.com.cn/portal.php?mod=view&amp;aid=27422&amp;mobile=no"><img title="发扬长征精神 传承文化经典"  src="http://jk.js.cn/d/file/news/guonei/2018-07-18/a1b099ec1bfe15b337af81841771bb93.jpg" border=0 /></a>
+
+<p><a href=http://news.lnd.com.cn/system/2018/06/26/000002929.shtml>发扬长征精神 传承文化经典</a></p>
+
+</span></div>
+                 <div class="yli113"><span class="cms_block_span">
+
+<ul>  
+	<li><a class="blue" href="http://economy.lnd.com.cn/news/show/14/39696.html" target="_blank"  title="优梵艺术X天猫海外 “3.8平米女王梵书房”大放异彩">优梵艺术X天猫海外 “3.8平米女王梵书房”大放异彩</a></li>
+	<li><a class="blue" href="http://economy.lnd.com.cn/news/show/14/39695.html" target="_blank"  title="BCH版本火炬走红的背后— 传递SLP协议">BCH版本火炬走红的背后— 传递SLP协议</a></li>
+	<li><a class="blue" href="http://economy.lnd.com.cn/news/show/14/39678.html" target="_blank"  title="铜罐驿实验学校：科技带来普惠 钉钉让农村教育也跟上时代步伐">铜罐驿实验学校：科技带来普惠 钉钉让农村教育也跟上时代步伐</a></li>
+	<li><a class="blue" href="http://economy.lnd.com.cn/news/show/14/39677.html" target="_blank"  title="铜板街的守正创新之道：客户第一 稳字当头 科技驱动">铜板街的守正创新之道：客户第一 稳字当头 科技驱动</a></li>
+	<li><a class="blue" href="http://economy.lnd.com.cn/news/show/14/39676.html" target="_blank"  title="今天，革命老区的孩子们搬进了美丽的新学校">今天，革命老区的孩子们搬进了美丽的新学校</a></li>
+	<li><a class="blue" href="http://economy.lnd.com.cn/news/show/14/39674.html" target="_blank"  title="一汽集团公司总经理奚国华：追求极致，打造中国质量">一汽集团公司总经理奚国华：追求极致，打造中国质量</a></li>
+	<li><a class="blue" href="http://economy.lnd.com.cn/news/show/14/39672.html" target="_blank"  title="试驾北汽新能源EX5，近距离感受它的技术魅力!">试驾北汽新能源EX5，近距离感受它的技术魅力!</a></li>
+</ul>
+</span></div> 
+  
+          </div>      
+ <!--右侧结束-->
+
+        </div>
+<style>
+.aboatmain {
+  background: #f9f9f9 none repeat scroll 0 0;
+  font-size: 14px;
+  height: 168px;
+}.aboat {
+  font-size: 14px;
+  height: 100px;
+  margin: 0 auto;
+  padding: 40px 30px;
+  width: 940px;
+}.yahei {
+  font-family: Microsoft YaHei;
+}.float_left {
+  float: left !important;
+}.aboat2 {
+  width: 260px;
+}.aboat2 p {
+  font-size: 20px;
+  height: 35px;
+}.aboat2 ul {
+  height: 50px;
+  width: 170px;
+}.aboat2 li {
+  float: left;
+  height: 25px;
+  margin-right: 20px;
+  width: 60px;
+}
+</style>
+<div class="aboatmain">
+  <div class=" yahei aboat">
+    <div class="float_left" style="width:290px;">
+      <p style="font-size:20px; height:35px;"></p>
+      <p></p>
+      <p></p>
+    </div>
+    <div class="float_left aboat2">
+      <p>合作商家</p>
+      <ul>
+        <li>广告申请</li>
+        <li>活动合作</li>
+      </ul>
+    </div>
+    <div class="float_left" style=" margin:5px 10px;"><img src="http://play.lnd.com.cn/beiguohq/images/weixin.jpg"></div>
+    <div class="float_left" style=" margin:5px 10px;">
+      <p>economy.lnd.com.cn</p>
+      <p>联系微信：15710550992 </p>
+      <p></p>
+    </div>
+    <div class="float_left"><img src="http://bbs.lnd.com.cn/economy/weixin01.jpg" width="85" height="85"></div>
+  </div>
+</div>
+ 
+
+        
+
+<div id="scrolltop">
+<span hidefocus="true"><a title="返回顶部" onclick="window.scrollTo('0','0')" class="scrolltopa" ><b>返回顶部</b></a></span>
+</div>
+
+
+
+</div>
+<!--<div style="width:100%; height:1px; font-size:1px; padding-top:20px; _padding-top:0px; _margin-top:-20px; float:left"></div>-->
+ <div class="end1"><span class="cms_block_span">
+
+<html><head>
+
+<link href="http://www.lnd.com.cn/inc/css/blackfoot.css" rel="stylesheet" type="text/css">
+</head><body>
+<div class="end1">
+
+  <div style="width:1000px; height:30px; margin:0 auto; margin-top:20px;">
+
+    <div class="end21">
+
+      <div class="float_left end211"><a href="http://www.lnd.com.cn/typd/cms_udf/2018/gywm/index.shtml" target="_blank">关于我们</a> <a href="#" target="_blank">广告报价</a> <a href="http://www.lnd.com.cn/typd/cms_udf/2018/bzdh/index.shtml" target="_blank">本站导航</a> <a target="_blank">联系方式</a> <a href="http://www.lnd.com.cn/typd/cms_udf/2018/mzsm/index.shtml" target="_blank">免责声明</a> &nbsp;&nbsp;网站律师 </div>
+
+      <div class="float_left end212"><a href="http://wljg.lngs.gov.cn/iciaicweb/dzbscheck.do?method=change&amp;id=E2012052200004044" target="_blank"><img src="http://www.lnd.com.cn/inc/images/end1.png"></a><a href="http://ln.cyberpolice.cn/alertPawsAction.do?method=LOUT&amp;&amp;id=sy" target="_blank"><img src="http://www.lnd.com.cn/inc/images/end2.png"></a><a href="http://www.lnd.com.cn/htm/2009-07/22/content_782536.htm" target="_blank"><img src="http://www.lnd.com.cn/inc/images/end3.png"></a></div>
+
+ 
+     <div class="float_left end212 tl"><span class="cms_block_span">
+
+ <script type="text/javascript">document.write(unescape("%3Cspan id='_ideConac' %3E%3C/span%3E%3Cscript src='http://dcs.conac.cn/js/08/000/0000/40534951/CA080000000405349510002.js' type='text/javascript'%3E%3C/script%3E"));</script>
+</span></div>
+
+  
+
+  </div>
+
+  <div class="end11">
+
+    <ul class="float_left end111">
+
+      <li>Copyright ? 1998 - 2018 www.lnd.com.cn All Rights Reserved. </li>
+
+      <li>本网站各类信息未经授权禁止转载  版权所有　北国网</li>
+
+      <li>互联网新闻信息服务许可证编号：2112006002</li>
+
+      <li>沈网警备案20040201号 </li>
+
+    </ul>
+
+    <div class="float_left"><img src="http://www.lnd.com.cn/inc/images/erw.jpg"></div>
+
+    <ul class="float_left yahei end112">
+
+      <li style="font-size:14px; line-height:30px;">北国网官方微信</li>
+
+      <li>带你每天</li>
+
+      <li style="font-size:23px; color:#FF0000;line-height:30px;">“ 动 ”</li>
+
+      <li>起来！</li>
+
+    </ul>
+
+    <ul class="float_left end113">
+
+      <li>
+
+        <div style="width:300px;"><a target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=21010202000025" style="display:inline-block;text-decoration:none;height:20px;line-height:20px;"><img src="http://www.lnd.com.cn/inc/images/ghs.png" style="float:left;">
+
+              <p style="float:left;height:20px;line-height:20px;margin: 0px 0px 0px 5px;">辽公网安备 21010202000025号</p>
+
+        </a></div>
+
+      </li>
+
+      <li><a href="http://www.lnd.com.cn/inc/images/zengzhi.jpg" target="_blank">增值电信业务经营许可证编号：辽B-2-4-20110119</a></li>
+
+      <li><a href="http://www.lnd.com.cn/inc/images/gbxk.jpg" target="_blank">广播电视节目制作经营许可证 编号：（辽）字第243号</a></li>
+
+      <li>制作单位：辽宁北国传媒网络科技股份有限公司</li>
+
+    </ul>
+
+  </div>
+
+</div>
+</div>
+<script src="http://www.lnd.com.cn/sys/online_calc/online_calc.js?ver=1" type="text/javascript"></script>
+</body></html>
+
+</span></div>
+
+
+
+
+
+
+</body></html>

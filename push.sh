@@ -4,16 +4,16 @@ export PATH
 
 git checkout main
 
-#添加默认的主分支
-git branch master				
-#合并后的主分支
-git branch php					
-#主程序
-git branch html					
-#HTML文件
-git branch static				
-#图片等静态资源
-git push --all
+# #添加默认的主分支
+# git branch master				
+# #合并后的主分支
+# git branch php					
+# #主程序
+# git branch html					
+# #HTML文件
+# git branch static				
+# #图片等静态资源
+# git push --all
 
 # cat branchs.txt | while read branchs
 # cat add.txt | while read add
